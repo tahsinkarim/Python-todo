@@ -1,6 +1,3 @@
 hello
 there
 general
-kanobi
-anakin
-Luke
